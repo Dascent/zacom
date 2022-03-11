@@ -1,0 +1,40 @@
+	@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Bebas+Neue&family=Cinzel+Decorative:wght@700&family=Comforter+Brush&family=Gemunu+Libre:wght@300&family=Goldman&family=Great+Vibes&family=Lobster+Two&family=Oswald&family=Pirata+One&family=Play&family=Zilla+Slab+Highlight&display=swap');
+	html, body {
+  background-color: #222;
+  font-family: Arial;
+		width:100%;
+		margin:0 auto;
+}
+
+.xcr::-webkit-scrollbar {width: 8px;background-color:#69BDDB;}
+	/* Track */
+.xcr::-webkit-scrollbar-track {background: #fff;box-shadow:inset 0 0 3px rgba(0,0,0,0.3); }
+ /* Handle */
+.xcr::-webkit-scrollbar-thumb {background:#69BDDB;}
+/* Handle on hover */
+.xcr::-webkit-scrollbar-thumb:hover {background: #F76422;box-shadow:inset 0 0 3px rgba(0,0,0,0.5); }
+.fxcr {overflow-y: scroll;scrollbar-color: orange white;scrollbar-width: thin;}
+.slider {max-width: 80%;text-align: center;}
+.blurb {font-size: 15px;}
+.invert {-moz-transform: rotate(180deg);-o-transform: rotate(180deg);-webkit-transform: rotate(180deg);transform: rotate(180deg);}
+#tarotcards img, #tarotcards  svg,#img-1 img,#img-1 svg,#img-2 img,#img-2 svg,#img-3 img,#img-3 svg{display:block;width:100%;height:auto;margin:0 auto;background-color:transparent;border:none;}
+.card-header h2{font-size:19px;text-align:center;}
+#info-1 h4,#info-2 h4,#info-3 h4{text-align:center;text-transform:uppercase;}
+#tarotcards .dasinfo h4{background-color:#222;color:rgba(208,172,104,1.00);font-size:19px;padding:.5em;font-family:'Play',sans-serif;}
+.dasinfo{padding:.4em .7em .4em;}.dasinfo .btn-sm{font-size:15px;background-color:#000;color:#947A48;font-weight:300;font-family:'Play';}
+.dasinfo .btn-sm:hover{font-size:15px;background-color:#947A48;color:#fff;font-weight:300;font-family:'Play';}
+.btn-gold{font-size:1.7rem;background-color:#000;color:#947A48;font-weight:100;font-family:'Play';}
+.btn-gold:hover{font-size:1.7rem;background-color:#947A48;color:#fff;font-weight:100;font-family:'Play';}
+/* Accordion */
+.achead h3,.achead h3:not(:checked){display:block;padding:.5em 1em .5em;background-color:#f1f1f1;box-sizing:border-box;margin:0 auto;cursor:pointer;font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;font-size:1rem;color:#777;border-bottom:1px solid #ccc;}
+.achead h3:focus,.achead h3:checked,.achead h3:active{background-color:#676767;color:#FFF;}
+h3 span.stats{float:right;transform:translateY(1px);font-size:12px;background-color:#947A48;font-weight:300;font-family:'Play';}
+.achead h3:focus span.stats,.achead h3:checked span.stats,.achead h3:active span.stats{background-color:#222;}
+	.active{visibility:visible;display:block;}.ui-icon-plus,.ui-icon-minus{display:block;width:15px;height:15px;float:left;margin-left:4px;margin-right:8px;border-radius:20px;box-shadow: 0 2px 3px #000;}
+.ui-icon-plus{background-color:#666;}
+.ui-icon-minus{background-color:#BFA864;box-shadow:inset 0 1px 3px #000;}
+.gold{font-family:'Play';color:#dbcd8c;padding-top:.5em;}
+.cardpages{max-height:350px;overflow:auto;}
+.cardpages a,.cardpages a:visited{color:#C5BDBE;text-decoration:none;}
+.cardpages a:hover{color:#fff;text-decoration:none;}
+.cardpages strong{display:block;width:100%;height:auto;margin:0 auto;padding:.5em 0 .5em;text-align:left;border-bottom:1px solid #444;background-color:rgba(0,0,0,0.4);text-indent:12px;}
