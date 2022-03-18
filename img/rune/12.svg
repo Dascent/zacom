@@ -1,0 +1,11 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+	<title>astral</title>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #f8da93 } 
+		.s1 { fill: none;stroke: #f8da93;stroke-width: 4 } 
+	</style>
+	<path id="pluyo1" class="s0" d="m54 58v11l9 1l1 5l-10-1v11l-4-2v-9h-8l-1-5h9l-1-10l5-1z" />
+	<path id="pluto2" class="s0" d="m30.7 37c1.09 0 2.3 1 2.3 1c0 0-1 4.83 6 15c3.24 4.7 12.4 5 19 3c11.16-3.38 11-18 11-18c0 0 5.03-4.56 4 3c-1.03 7.56-6.33 21.94-25 20c-18.67-1.94-19-23-19-23c0 0 0.81-1 1.7-1z" />
+	<path id="pluto33" class="s1" d="m65.27 40.13c0 0-3.11 12.57-14.09 12.66c-10.97 0.09-14.53-12.44-14.53-12.44c0.68 4.17-0.46-6.72 2.2-10.13c3.9-4.99 12.11-6.05 12.11-6.05c13.46 0.95 14.31 15.96 14.31 15.96z" />
+</svg>

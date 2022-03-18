@@ -1,0 +1,11 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+	<title>astral</title>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: none;stroke: #f8da93;stroke-width: 5 } 
+		.s1 { fill: #f8da93 } 
+	</style>
+	<path id="mercury1" class="s0" d="m75.35 48.58c0 0-4.86 19.63-22.01 19.78c-17.15 0.15-22.71-19.43-22.71-19.43c1.06 6.52-0.71-10.51 3.44-15.83c6.09-7.8 18.92-9.46 18.92-9.46c21.03 1.49 22.36 24.94 22.36 24.94z" />
+	<path id="mercury2" class="s1" d="m36 10c4.35 16.92 15.3 13.7 23 13c7.7-0.7 12-13 12-13h5c0 0-4.08 12.92-11 16c-6.92 3.08-16.21 2.09-24 0c-5.59-1.5-10-16-10-16c0 0 4.51-1.89 5 0z" />
+	<path id="mercury3" class="s1" d="m51 67h5v10h8v4l-8 1v6l-5 1v-7l-8-1v-4h7l1-10z" />
+</svg>

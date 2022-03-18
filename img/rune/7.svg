@@ -1,0 +1,9 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+	<title>astral</title>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #f8da93 } 
+	</style>
+	<path id="ceres1" class="s0" d="m29 37c0 0 4.5-9.85 7-11c2.5-1.15 12.24-7.5 21-4c8.76 3.5 11.52 6.59 15 15c3.48 8.41-2.72 18.91-6 22c-3.28 3.09-10.39 6.18-11 6c-0.61-0.18-2.59 0-2.59 0v-4c0 0 4.14-1.61 8.05-4.78c2.92-2.37 5.71-6.06 6.55-8.22c1.97-5.05-1.41-17.5-8-20c-6.59-2.5-11.86-3.57-18 1c-6.14 4.57-7 11-7 11h-5v-3z" />
+	<path id="ceres2" class="s0" d="m51 61l5-1l-1 11h8v4l-8 1v6l-5 1v-7l-8-1v-4h8l1-10z" />
+</svg>

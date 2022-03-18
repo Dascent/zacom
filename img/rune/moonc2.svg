@@ -1,0 +1,17 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+	<title>moonphase crescent last</title>
+	<style>
+		tspan { white-space:pre }
+		.s0 { opacity: 0;fill: #a78942 } 
+		.s1 { opacity: 0;fill: #f8da93 } 
+.fullmoon{opacity:.5;fill:#a78942;}
+.crescent{opacity:1;}
+.firstquarter{opacity:0;}
+.thirdquarter{opacity:0;}
+	</style>
+	<path id="full" class="s0 fullmoon" d="m49.5 21c15.74 0 28.5 12.76 28.5 28.5c0 15.74-12.76 28.5-28.5 28.5c-15.74 0-28.5-12.76-28.5-28.5c0-15.74 12.76-28.5 28.5-28.5z" />
+	<path id="m1" class="s1" d="m67.68 27.87c0 0 17.81 15.98 5.54 36.35c-11.49 19.08-33.49 11.89-33.49 11.89c0 0 15.78-7.33 15.96-27.48c0.18-20.15-13.64-26.46-13.64-26.46c13.29-4.42 25.64 5.7 25.64 5.7z" />
+	<path id="fh" fill-rule="evenodd" class="s1 firstquarter" d="m51 49.72c0 9.43-1 18.85-1 28.28c36.16-1.26 36.17-55.79 0-57c0 9.57 1 19.15 1 28.72z" />
+	<path id="m2" class="s1 crescent" d="m56.96 22.17c0 0-13.83 6.31-13.64 26.46c0.18 20.15 15.96 27.48 15.96 27.48c0 0-22 7.19-33.49-11.89c-12.27-20.37 5.54-36.35 5.54-36.35c0 0 12.35-10.12 25.64-5.7z" />
+	<path id="fh2" fill-rule="evenodd" class="s1 thirdquarter" d="m49 21c-36.17 1.21-36.16 55.74 0 57c0-9.43-1-18.85-1-28.28c0-9.57 1-19.15 1-28.72z" />
+</svg>
