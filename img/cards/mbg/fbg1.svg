@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 500" width="350" height="500">
+	<title>fbg1.svg</title>
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="56.8" y1="144.9" x2="291.3" y2="356.1">
+			<stop offset=".4" stop-color="#ffffff" stop-opacity=".3" />
+			<stop offset=".6" stop-color="#ffffff" stop-opacity="0" />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.s0 {opacity:0; fill: #895313 } 
+		.s1 { fill: url(#grd1) } 
+	</style>
+	<path id="bg" class="s0" d="m0 0h350v500h-350v-500z" />
+	<path id="fader" class="s1" d="m-1 500c0 0 12.33-131.11 178.32-254.23c165.99-123.12 171.68-244.77 171.68-244.77v499h-350z" />
+</svg>
